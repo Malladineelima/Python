@@ -10,11 +10,6 @@ obj=encap()
 print(obj._a)
 obj.encapfunction()
 print(obj.c)
-o/p=
-10
-encap function-accessing protected
-20
-20
 
 #private
 class encap:
@@ -28,7 +23,4 @@ obj.encapfunction()
 print(obj.__a)
 #it will through error bcs a is a private cant
 #acessed outside class
-o/p=
-10
-encap function
-10
+
