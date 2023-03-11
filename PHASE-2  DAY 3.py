@@ -1,4 +1,3 @@
-#stack operations using list
 #STACK IS LIFO-LAST IN FIRST OUT
 #stack implimentation
 stack=[]
